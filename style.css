@@ -33,8 +33,7 @@
 }
 
 .loading button {
-    position: absolute;
-    bottom: 95px;
+    margin-top: 10px;
 }
 
 @keyframes autoloading {
