@@ -56,3 +56,8 @@
     flex-wrap: wrap;
     filter: blur(4px);
 }
+
+.container iframe {
+    width: 90%;
+    height: 60%;
+}
