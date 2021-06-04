@@ -1,3 +1,3 @@
 # About
 
-what? just simple autoloading with opening vinland saga
+what? just simple autoloading with opening vinland saga.
