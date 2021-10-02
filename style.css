@@ -60,3 +60,14 @@
     width: 90%;
     height: 60%;
 }
+
+/* button only */
+.btn {
+    border: none;
+    padding: 1rem;
+    background-color: hsl(0, 0%, 93%);
+}
+
+.btn:active {
+    background-color: hsl(0, 0%, 55%);
+}
